@@ -1,0 +1,15 @@
+# CodeStock 2013 Retrospective
+
+Another CodeStock is in the books. Just like every year, I had a great time, and I learned a lot. There were many great sessions this year and I’ll be digesting this information for a while.
+
+One of the things that struck me this year is that, even though there were great sessions, some of the most fun I had was outside of sessions. The dinners, social events and just hanging out with other developers was rejuvenating. It was great sharing ideas with everyone. At any conference, the sessions are what get most of the attention, but I realized this year that just talking to other developers is at least as valuable.
+
+My only “disappointment” this year was that there were too many good sessions. I didn’t get to attend but about half of what I wanted to. Part of that was scheduling overlap, and part was over-crowded rooms. Whatever the reason, the big take-away is that there were a high number of great sessions this year.
+
+More than once, I was unable to get into my first session pick during a time slot. I could point out that sticking more popular sessions in the smaller rooms wasn’t a great idea, I assume that point has already been made. Some of the sessions I ended up attending as backups were incredible. Next year, I’m going to continue to try to get into mostly sessions on technologies I currently use or am interested in, but I’m also going to make it a point to go to at least a couple of sessions that seem completely unrelated to my interests. “Phat Stacks” is one that sticks out in my mind. I ended up there completely by accident, and it ended up being one of the most interesting and informative sessions of the conference.
+
+All of the positives said, there were definitely some scheduling issues that I’m sure will be fixed for next year. Specifically, in many cases it seemed like sessions on similar technologies were stacked horizontally instead of vertically. In the last session block of the weekend, there were two ASP.NET MVC sessions I wanted to see, but could obviously only attend one. Earlier on Saturday, there were two sessions at the same time about single-page application libraries in JavaScript. It seems to be that instead of forcing me to pick a framework and attend that session blind, a more appropriate scheduling would have been to stack those vertically (at different times) so I could attend both, get an overview of both frameworks, and make a decision after the fact which fit me better. Hopefully that’s something that will be investigated for next year.
+
+I already mentioned the over-crowding in some sessions. Combined with the horizontal stacking of sessions, I’m hopeful that next year sees a return to the post-selection session builder. If we all could have preselected the sessions (out of the ones that were accepted to the conference) that we planned on attending, I think we could knock out both stacking and the crowding issues. Is there a technological solution for this?
+
+Again, even slight issues with scheduling aside, CodeStock 2013 was a wonderful and educational time. I can’t wait for next year.
